@@ -1,0 +1,1 @@
+print("there is double quote outsideand'single quotes inside'.")
